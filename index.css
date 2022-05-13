@@ -1,0 +1,28 @@
+.root {
+  margin: 0 auto;
+  max-width: 450px;
+}
+
+.counter {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin: 20px;
+  background-color: rgb(238, 235, 235);
+  border-radius: 2px;
+}
+
+button {
+  margin: 10px;
+  width: 60px;
+  height: 30px;
+  cursor: pointer;
+  background-color: blueviolet;
+  font-size: 18px;
+}
+
+.item {
+  margin: 10px;
+  min-width: 30px;
+}
